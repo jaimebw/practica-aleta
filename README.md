@@ -1,2 +1,2 @@
 # practica-aleta
-Código utilizado para la práctica de la asignatura de SP: DF
+El archivo ```.ipynb```se encuentra [aquí](https://github.com/jaimebw/practica-aleta/blob/main/practica_aleta.ipynb)
